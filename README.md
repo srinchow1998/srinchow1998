@@ -1,5 +1,8 @@
-Srinivas Musinuri | Full Stack Developer
-👋 Hello, I'm Srinivas Musinuri – a passionate Full Stack Developer specializing in .NET Core, microservices, cloud solutions, and more. I'm currently building high-performance applications for healthcare, finance, and other domains.
+Srinivas Musinuri 
+Full Stack Developer
+
+👋 Hello, 
+I'm Srinivas Musinuri – a passionate Full Stack Developer specializing in .NET Core, microservices, cloud solutions, and more. I'm currently building high-performance applications for healthcare, finance, and other domains.
 
 🔧 Technologies & Tools I Use
 Frontend:
